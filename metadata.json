@@ -1,0 +1,6 @@
+{
+  "name": "Comptabilité ZAINA",
+  "description": "Application de Comptabilité Générale avec authentification Google Firebase, journal d'opérations équilibré, compte de résultat, bilan de fin de mois et sauvegarde sur Firebase Realtime Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
